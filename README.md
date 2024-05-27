@@ -26,7 +26,7 @@ Run the MySQL container:
 
 ### Using DBeaver to connect to the database
 
-![connect to a db screen](<screenshots/dbeaver_connect_to_db_screen.png>)
+![connect to db screen](screenshots/dbeaver_connect_to_db_screen.png)
 
 *As this is a personal project, I will skip any security measurement.
 
@@ -55,3 +55,7 @@ Percentage of Population Infected (infection rate): The percentage of the popula
 Mortality Rate: The percentage of the population that has been died due to COVID-19 measures the severity of the pandemic.
 
 Rolling Count of People Vaccinated: The cumulative number of vaccinated individuals on each day presents the medical treatment provided in each specific location and in the world in general against the virus. Additionally, it shows the percentage of the population that has received the vaccine.
+
+## Visualization
+
+[Covid data dashboard](https://public.tableau.com/views/covid-data-dashboard_17164755424530/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)

@@ -171,4 +171,3 @@ WHERE cd.continent != '')
 
 SELECT *
 FROM pct_pop_vaccinated
-
